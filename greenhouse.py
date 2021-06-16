@@ -2,6 +2,8 @@ import pygame
 import random
 import math
 
+#hi this is me
+
 pygame.init()
 
 screen = pygame.display.set_mode((800, 600))
